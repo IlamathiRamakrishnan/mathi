@@ -6,6 +6,11 @@ public class Mathi {
 		System.out.println("mathi-master");
 
 	}
+	
+	private void TC4() {
+		System.out.println("Krithik");
+
+	}
 
 	private void TC2() {
 		System.out.println("Divya");
